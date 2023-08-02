@@ -1,4 +1,4 @@
-from projective_geometry.pg_common import dot_product, cross_product
+from projective_geometry.pg_common import cross_product, dot_product
 
 
 def test_dot_product():

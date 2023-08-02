@@ -25,6 +25,7 @@ def dot_product(vector1, vector2):
         raise ValueError("Vectors must be the same length")
     return sum(vector1[i] * vector2[i] for i in range(len(vector1)))
 
+
 # Write a cross product of two vectors.
 def cross_product(vector1, vector2):
     """
