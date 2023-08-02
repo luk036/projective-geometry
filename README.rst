@@ -28,7 +28,9 @@
     :target: https://pyscaffold.org/
 .. image:: https://coveralls.io/repos/github/luk036/projective-geometry/badge.svg?branch=main
     :target: https://coveralls.io/github/luk036/projective-geometry?branch=main
-
+.. image:: https://readthedocs.org/projects/projective-geometry/badge/?version=latest
+    :target: https://projective-geometry.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 |
 
 ===================
