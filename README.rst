@@ -26,6 +26,8 @@
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
     :target: https://pyscaffold.org/
+.. image:: https://coveralls.io/repos/github/luk036/projective-geometry/badge.svg?branch=main
+    :target: https://coveralls.io/github/luk036/projective-geometry?branch=main
 
 |
 
