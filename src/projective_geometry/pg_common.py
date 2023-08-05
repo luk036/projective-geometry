@@ -2,6 +2,7 @@
 This module contains functions that are common to projective plane.
 """
 
+
 # Write a dot product of two vectors.
 def dot_product(vector1, vector2):
     """
@@ -24,7 +25,7 @@ def dot_product(vector1, vector2):
 def cross_product(vector1, vector2):
     """
     The function `cross_product` calculates the cross product of two 3D vectors.
-    
+
     :Example:
     >>> cross_product([1, 2, 3], [4, 5, 6])
     [-3, 6, -3]
@@ -44,5 +45,5 @@ def cross_product(vector1, vector2):
     return [
         vector1[1] * vector2[2] - vector1[2] * vector2[1],
         vector1[2] * vector2[0] - vector1[0] * vector2[2],
-        vector1[0] * vector2[1] - vector1[1] * vector2[0]
+        vector1[0] * vector2[1] - vector1[1] * vector2[0],
     ]
