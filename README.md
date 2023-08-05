@@ -11,6 +11,7 @@
 -->
 
 [![Project generated with PyScaffold](https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold)](https://pyscaffold.org/)
+[![ReadTheDocs](https://readthedocs.org/projects/projective-geometry/badge/?version=latest)](https://projective-geometry.readthedocs.io/en/stable/)
 
 # projective-geometry
 
